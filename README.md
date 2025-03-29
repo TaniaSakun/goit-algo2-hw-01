@@ -12,6 +12,7 @@ Develop a function that determines the smallest and largest elements in an array
 
 #### Results:
 Array: [-88, -100, 3, -78, -40, -54, -63, -40, 41, 11, -30, -55, 64, 64, -99, -90]
+
 Minimum element: -100, Maximum element: 64
 
 ### Task 2: Finding the k-th Smallest Element
@@ -25,4 +26,5 @@ Design an algorithm to locate the k-th smallest element in an unsorted array usi
 
 #### Results:
 Array: [-98, 65, -20, -73, -54, -23, -33, 55, -73, 86, 31, -42, 16, 83, 42, -45]
+
 6-th smallest element: -33
